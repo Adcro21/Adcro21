@@ -36,7 +36,4 @@
 
 <br/>
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Adcro21&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Adcro21's GitHub stats" />
-</p>
+
