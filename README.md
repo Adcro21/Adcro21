@@ -3,7 +3,7 @@
 
 <br/>
 
-- 🎓 I'm a 3rd-year **Software Engineering** student based in Ho Chi Minh City.
+- 🎓 I'm a 4rd-year **Software Engineering** student based in Ho Chi Minh City.
 - 💻 I have a strong passion for **Front-end development** and crafting intuitive User Interfaces.
 - 🔬 Currently working on my graduation research project focusing on **Intelligent Vehicle Detection & Tracking** using YOLO models and MOT algorithms.
 - 🎯 Actively seeking **Front-end / Software Engineering Internship** opportunities to apply my skills in a real-world environment.
